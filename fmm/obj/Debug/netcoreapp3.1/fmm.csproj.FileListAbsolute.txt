@@ -1,0 +1,11 @@
+C:\Workspace\fmm\fmm\bin\Debug\netcoreapp3.1\fmm.exe
+C:\Workspace\fmm\fmm\bin\Debug\netcoreapp3.1\fmm.deps.json
+C:\Workspace\fmm\fmm\bin\Debug\netcoreapp3.1\fmm.runtimeconfig.json
+C:\Workspace\fmm\fmm\bin\Debug\netcoreapp3.1\fmm.runtimeconfig.dev.json
+C:\Workspace\fmm\fmm\bin\Debug\netcoreapp3.1\fmm.dll
+C:\Workspace\fmm\fmm\bin\Debug\netcoreapp3.1\fmm.pdb
+C:\Workspace\fmm\fmm\obj\Debug\netcoreapp3.1\fmm.csprojAssemblyReference.cache
+C:\Workspace\fmm\fmm\obj\Debug\netcoreapp3.1\fmm.AssemblyInfoInputs.cache
+C:\Workspace\fmm\fmm\obj\Debug\netcoreapp3.1\fmm.AssemblyInfo.cs
+C:\Workspace\fmm\fmm\obj\Debug\netcoreapp3.1\fmm.dll
+C:\Workspace\fmm\fmm\obj\Debug\netcoreapp3.1\fmm.pdb
